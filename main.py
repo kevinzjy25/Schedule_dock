@@ -8,7 +8,7 @@ import threading
 from PySide6.QtWidgets import (
     QApplication,
     QWidget,
-    QLabel,
+    QLabel,123
     QVBoxLayout,
     QHBoxLayout,
     QPushButton,
